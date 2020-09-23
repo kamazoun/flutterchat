@@ -1,0 +1,25 @@
+{
+  "name": "knode",
+  "version": "1.0.0",
+  "description": "socket.io server for flutter_chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamazoun/flutterchat.git"
+  },
+  "keywords": [
+    "socket",
+    "flutter",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamazoun/flutterchat/issues"
+  },
+  "homepage": "https://github.com/kamazoun/flutterchat#readme"
+}
